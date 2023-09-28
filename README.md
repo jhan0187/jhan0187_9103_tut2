@@ -3,9 +3,13 @@
 ## Part 1
 I got inspiration from the "ghosts" in happy coding. 
 - We will draw an animated image in the coding major project, which is similar to "The Scream" by Edvard Munch. 
-- In that project, we might draw a sky that constantly changes its colour and a person with painful and grimacing facial expressions. As the painful face resembles a ghost face, we can mimic the "ghosts" in our project and add more animations such as rotating the person's face in the same way as rotating ghosts' bodies.
+- In that project, we might draw a sky that constantly changes its colour and a person with painful and grimacing facial expressions. As the painful face resembles a ghost face, we can mimic the "ghosts" in our project and add more animations such as rotating the person's face just as rotating ghosts' bodies.
+- Therefore, we can use "ghosts" as inspiring work because of its similar style and creative animation.
 
-![An image of the ghosts](ghosts.pdf)
+![An image of the ghosts](readmyPictures/ghostFace.png)
+![An image of the ghosts](readmyPictures/ghostFace2.png)
+![An image of the ghosts](readmyPictures/ghosts.gif)
+
 
 
 
@@ -19,15 +23,9 @@ This is a good example to draw our own project since it uses many in-class knowl
 - We can get insights from the moveandDraw() method to make the person's face turning from left to right.
 - Also, we can use similar ellipses to draw the person's face just as the the ghost's face in happycoding.
 
+![Images of the code]
+
 [Link of the ghosts code](https://happycoding.io/tutorials/p5js/creating-classes/ghosts)
-
-
-```
-function helloWorld() {
-console.log("Hello, world!");
-}
-```
-> This is a blockquote.
 
 
 
