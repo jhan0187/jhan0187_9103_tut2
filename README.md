@@ -1,6 +1,6 @@
 # jhan0187_9103_tut2
 
-This is the readme.
+Part 1
 # Header 1
 ## Header 2
 ### Header 3
