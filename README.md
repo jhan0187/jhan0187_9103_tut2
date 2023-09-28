@@ -1,27 +1,26 @@
 # jhan0187_9103_tut2
 
-Part 1
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
-**Bold Text** or __Bold Text__
-*Italic Text* or _Italic Text_
+## Part 1
+I got inspiration from the "ghosts" in happy coding. 
+- We will draw an animated image in the coding major project, which is similar to "The Scream" by Edvard Munch. 
+- In that project, we might draw a sky that constantly changes its colour and a person with painful and grimacing facial expressions. As the painful face resembles a ghost face, we can mimic the "ghosts" in our project and add more animations such as rotating the person's face in the same way as rotating ghosts' bodies.
 
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
+![An image of the ghosts](ghosts.pdf)
 
-1. First Item
-2. Second Item
-3. Third Item
 
-[Link Text](https://www.google.com)
-![An image of a cat](http://placekitten.com/200/300)
-![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+
+
+## Part 2
+This is a good example to draw our own project since it uses many in-class knowledge such as "for-loop", "if-else", "array". 
+1. It uses for-loop to draw 10 different ghosts
+2. It uses trigonometric of cosine to show the changing position of the ghost from left to right in the method of moveAndDraw. 
+3. "Array" is used to draw the ghosts' tail. 
+
+- We can get insights from the moveandDraw() method to make the person's face turning from left to right.
+- Also, we can use similar ellipses to draw the person's face just as the the ghost's face in happycoding.
+
+[Link of the ghosts code](https://happycoding.io/tutorials/p5js/creating-classes/ghosts)
+
 
 ```
 function helloWorld() {
